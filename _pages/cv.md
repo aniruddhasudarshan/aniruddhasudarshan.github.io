@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Temple University, Currently
+* M.S. in Mathematics, Indian Institute of Science Education and Research (IISER), Bhopal, 2022
+* B.S. Math, Physics, and C.S., Jain University, 2018
 
-Work experience
+Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Introduction to Modern Algebra
+  * Temple University
+  * Duties includes: Recitation and grading
+  * Supervisor: Prof. Martin Lorenz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Lab for Calculus
+  * Temple University
+  * Duties included: Recitation and grading. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: Precalculus
+  * Temple University
+  * Duties included: Teaching, grading, making quizes.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  Spring 2023: Modern Algebra II and Advanced Calculus II
+  * Temple University
+  * Duties includes: Recitation and grading
+  * Supervisor: Prof. Martin Lorenz and Prof. Gerardo Mendoza
+ 
+  Fall 2022: Differential Equations I
+  * Temple University
+  * Duties includes: Recitation and grading
+  * Supervisor: Prof. Je-Wie Chen
+
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-organized the Algebra--Number Theory Seminars at IISER Bhopal, 2022.
