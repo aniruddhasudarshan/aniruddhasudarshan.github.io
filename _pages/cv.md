@@ -39,14 +39,7 @@ Teaching experience
   * Temple University
   * Duties includes: Recitation and grading
   * Supervisor: Prof. Je-Wie Chen
-
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-    
+ 
 Service and leadership
 ======
 * Co-organized the Algebra--Number Theory Seminars at IISER Bhopal, 2022.
