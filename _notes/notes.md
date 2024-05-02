@@ -1,3 +1,3 @@
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| 2022 |  | Description of the item in the list                          |
+| 2022 | Multiplicity one theorems  | Expository notes [pdf]()                           |
