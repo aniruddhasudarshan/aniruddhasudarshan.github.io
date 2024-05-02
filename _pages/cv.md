@@ -11,7 +11,7 @@ Education
 ======
 * Ph.D in Mathematics, Temple University, Currently
 * M.S. in Mathematics, Indian Institute of Science Education and Research (IISER), Bhopal, 2022
-* B.S. Math, Physics, and C.S., Jain University, 2018
+* B.S. Mathematics, Physics, and Computer Science, Jain University, 2018
 
 Teaching experience
 ======
