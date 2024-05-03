@@ -5,4 +5,4 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Multiplicity One Theorems (Expository talk) [Slides](files/Multiplicity_one_theorems.pdf).
+* Multiplicity One Theorems (Expository talk) [Slides](aniruddhasudarshan.github.io/files/Multiplicity_one_theorems.pdf).
