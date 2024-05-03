@@ -263,9 +263,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: math
     values:
-      layout: talk
+      layout: math
       author_profile: true
       share: true
 
