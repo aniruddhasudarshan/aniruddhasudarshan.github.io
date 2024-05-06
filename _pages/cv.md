@@ -36,4 +36,5 @@ Teaching experience
  
 Service
 ======
+* A student organizer of the Geometry, Topology, and Algebra ([GTA Philadelphia](https://math.temple.edu/events/conferences/gscagt/)) conference at Temple, 2023-present.
 * Co-organized the Algebra--Number Theory Seminars at IISER Bhopal, 2021-2022.
