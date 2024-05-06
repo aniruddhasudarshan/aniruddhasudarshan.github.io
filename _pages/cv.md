@@ -38,6 +38,6 @@ Teaching experience
   * Duties includes: Recitation and grading
   * Supervisor: Prof. Je-Wie Chen
  
-Service and leadership
+Service
 ======
-* Co-organized the Algebra--Number Theory Seminars at IISER Bhopal, 2022.
+* Co-organized the Algebra--Number Theory Seminars at IISER Bhopal, 2021-2022.
