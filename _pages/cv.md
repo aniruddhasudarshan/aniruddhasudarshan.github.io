@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-Please find the full CV [here](files/My_CV.pdf). 
-
 Education
 ======
 * Ph.D in Mathematics, Temple University, Currently
