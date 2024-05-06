@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Some Math"
-permalink: /math/
+permalink: /maths/
 author_profile: true
 ---
 
