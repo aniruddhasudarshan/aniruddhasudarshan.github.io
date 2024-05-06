@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-Find the full CV [here](files/My_CV.pdf)
+Find the full CV [here](https://aniruddhasudarshan.github.io/files/My_CV.pdf)
 
 Education
 ======
