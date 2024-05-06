@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Resumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-The following is my short resumé. Please find the full CV [here](files/My_CV.pdf). 
+Please find the full CV [here](files/My_CV.pdf). 
 
 Education
 ======
@@ -19,25 +18,21 @@ Teaching experience
 ======
 * Spring 2024: Introduction to Modern Algebra
   * Temple University
-  * Duties includes: Recitation and grading
   * Supervisor: Prof. Martin Lorenz
 
 * Fall 2023: Lab for Calculus
   * Temple University
-  * Duties included: Recitation and grading. 
 
 * Summer 2023: Precalculus
   * Temple University
   * Duties included: Teaching, grading, making quizes.
 
- * Spring 2023: Modern Algebra II and Advanced Calculus II
+* Spring 2023: Modern Algebra II and Advanced Calculus II
   * Temple University
-  * Duties includes: Recitation and grading
   * Supervisor: Prof. Martin Lorenz and Prof. Gerardo Mendoza
  
 * Fall 2022: Differential Equations I
   * Temple University
-  * Duties includes: Recitation and grading
   * Supervisor: Prof. Je-Wie Chen
  
 Service
