@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aniruddha Sudarshan"
-  pronouns         : "he/him"  
+  pronouns         : "He/Him"  
   bio              : "Ph.D Student in Mathematics"
   location         : "Philadelphia"
   employer         : "Temple University"
@@ -200,10 +200,10 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   math:
-    output: true
+    output: false
     permalink: /:collection/:path/
   notes:
     output: false
@@ -221,7 +221,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -245,7 +245,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: Research
+      type: maths
     values:
       layout: single
       author_profile: true
@@ -263,9 +263,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: math
+      type: teaching
     values:
-      layout: math
+      layout: single
       author_profile: true
       share: true
 
