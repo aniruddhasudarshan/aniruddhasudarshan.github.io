@@ -202,8 +202,8 @@ collections:
   teaching:
     output: false
     permalink: /:collection/:path/
-  math:
-    output: false
+  maths:
+    output: true
     permalink: /:collection/:path/
   notes:
     output: false
