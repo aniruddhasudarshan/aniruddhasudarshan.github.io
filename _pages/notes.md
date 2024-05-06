@@ -5,7 +5,8 @@ permalink: /notes/
 author_profile: true
 ---
 
+**Expository**
 
-| Entry            | Item                       |                                                              |
-| -----------------| ---------------------------|------------------------------------------------------------- |
-| 2022             | Multiplicity one theorems  | Expository slides [pdf](files/Multiplicity_one_theorems.pdf)  |
+| Year             | Title                      |                                             |
+| -----------------| ---------------------------|-------------------------------------------- |
+| 2022             | Multiplicity one theorems  | [pdf](files/Multiplicity_one_theorems.pdf)  |
