@@ -1,10 +1,11 @@
 ---
 layout: archive
-permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+Find the full CV [here](files/My_CV.pdf)
 
 Education
 ======
