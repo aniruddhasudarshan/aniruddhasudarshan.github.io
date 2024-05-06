@@ -202,14 +202,14 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  math:
     output: true
     permalink: /:collection/:path/
   notes:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
