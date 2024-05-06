@@ -234,32 +234,32 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+   #   path: ""
+   #   type: teaching
+   # values:
+    #  layout: single
+    #  author_profile: true
+    #  share: true
+    #  comments: true
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: Research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: notes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: notes
+  #  values:
+  #   layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
