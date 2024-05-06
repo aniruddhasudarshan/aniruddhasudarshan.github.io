@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Mathematics"
-permalink: /talks/
+title: "Some Math"
+permalink: /math/
 author_profile: true
 ---
 
