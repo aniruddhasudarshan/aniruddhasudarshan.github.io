@@ -10,6 +10,6 @@ I am a native of Bengaluru (ಬೆಂಗಳೂರು), Karnataka, India. Other t
 Sports
 ------
 * I am part of the Sandlot Baseball team [West Waste Philly](https://www.facebook.com/westphillywaste/).
-* I played cricket since highschool, and recently I was part of the team at IISER Bhopal.
-* I play tennis occasionally. First started playing in IISER, thanks to [Shreyas](https://samagashreyas.github.io/).   
+* I played Cricket since high school, and recently I was part of the team at IISER Bhopal.
+* I play Tennis occasionally. First started playing in IISER, thanks to [Shreyas](https://samagashreyas.github.io/).   
 
