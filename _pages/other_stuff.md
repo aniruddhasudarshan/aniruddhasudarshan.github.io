@@ -5,7 +5,7 @@ permalink: /otherstuff/
 author_profile: true
 ---
 
-I am a native of Bengaluru (ಬೆಂಗಳೂರು), Karnataka, India. Other than mathematics, I like to play sports, do some fictional writing, and videography. I am a novice in playing the _Saraswati Veena_, an Indian stringed instrument mainly used in Carnatic classical music.
+I am a native of Bengaluru (ಬೆಂಗಳೂರು), Karnataka, India. Other than mathematics, I like to play sports, do some fictional writing, watch movies, and do some videography. I am a novice in playing the _Saraswati Veena_, an Indian stringed instrument mainly used in Carnatic classical music.
 
 Sports
 ------
