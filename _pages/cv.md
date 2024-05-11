@@ -11,7 +11,7 @@ Find the full CV [here](https://aniruddhasudarshan.github.io/files/My_CV.pdf)
 Education
 ======
 * Ph.D in Mathematics, Temple University, Philadelphia, Currently
-* M.S. in Mathematics, Indian Institute of Science Education and Research (IISER), Bhopal, 2022
+* M.S. in Mathematics, Indian Institute of Science Education and Research (IISER), Bhopal, 2021
 * B.S. Mathematics, Physics, and Computer Science, Jain University, Bengaluru, 2018
 
 Teaching experience
