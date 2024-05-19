@@ -11,5 +11,5 @@ Sports
 ------
 * I am part of the Sandlot Baseball team [West Philly Waste](https://www.facebook.com/westphillywaste/).
 * I have been playing Cricket since high school. I was part of the team at IISER Bhopal.
-* I play Tennis occasionally. I first started Tennis in IISER, thanks to [Shreyas](https://samagashreyas.github.io/).   
+* I play Tennis occasionally. I first started playing Tennis at IISER, thanks to [Shreyas](https://samagashreyas.github.io/).   
 
