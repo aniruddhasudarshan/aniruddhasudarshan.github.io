@@ -7,6 +7,5 @@ author_profile: true
 
 **Preprints** 
 
-* On some local properties of sequences of Big Galois representations (with [Jyoti Prakash Saha](https://sites.google.com/site/jyotiprakashsaha/)), 2024.
-  * [pdf](https://aniruddhasudarshan.github.io/files/JNT_Art_1.pdf)  
+* [On some local properties of sequences of big Galois representations](https://aniruddhasudarshan.github.io/files/JNT_Art_1.pdf) (with [Jyoti Prakash Saha](https://sites.google.com/site/jyotiprakashsaha/)), Journal of Number Theory, 2024.  
 
