@@ -4,6 +4,8 @@ title: "Other Stuff"
 permalink: /otherstuff/
 author_profile: true
 ---
+About Me
+---------
 
 I am a native of Bengaluru (ಬೆಂಗಳೂರು), Karnataka, India. Other than doing math, I like to play sports, do some fictional writing, watch movies, and take videos. 
 
@@ -11,4 +13,10 @@ I am a novice in playing the [Saraswati Veena](https://en.wikipedia.org/wiki/Sar
 
 I am part of the Sandlot Baseball team [West Philly Waste](https://www.facebook.com/westphillywaste/). I have been playing Cricket since high school.
 I occasionally play Tennis. I first started playing Tennis at IISER, thanks to [Shreyas](https://samagashreyas.github.io/).   
+
+Miscellaneous
+------
+
+* This [article](https://www-users.cse.umn.edu/~kwlan/documents/french-glossary.pdf) has a collection of Math words in French and their English translations. 
+
 
