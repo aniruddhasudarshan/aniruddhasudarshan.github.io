@@ -15,6 +15,6 @@ I occasionally play Tennis. I first started playing Tennis at IISER, thanks to [
 Miscellaneous
 ------
 
-* This [article](https://www-users.cse.umn.edu/~kwlan/documents/french-glossary.pdf) has a collection of Math words in French and their English translations. 
+* This [article](https://www-users.cse.umn.edu/~kwlan/documents/french-glossary.pdf) has a collection of Math words used in French papers and their English translations. 
 
 
