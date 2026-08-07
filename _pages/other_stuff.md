@@ -12,9 +12,4 @@ I am a native of Bengaluru (ಬೆಂಗಳೂರು), Karnataka, India. Other t
 I am part of the Sandlot Baseball team [West Philly Waste](https://www.facebook.com/westphillywaste/). I have been playing Cricket since high school.
 I occasionally play Tennis. I first started playing Tennis at IISER, thanks to [Shreyas](https://samagashreyas.github.io/).   
 
-Miscellaneous
-------
-
-* This [article](https://www-users.cse.umn.edu/~kwlan/documents/french-glossary.pdf) has a collection of Math words used in French papers and their English translations. 
-
 
