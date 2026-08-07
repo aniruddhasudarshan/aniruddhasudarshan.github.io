@@ -7,5 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Ph.D student in the [Department of Mathematics](https://www.math.temple.edu/) at Temple University, Philadelphia. I am advised by [Jaclyn Lang](https://math.temple.edu/~tuo02012/). My interests lie in Algebraic Number Theory. More specifically, I work with Galois representations, elliptic curves, and modular forms. Currently, I am thinking about Ribet's method (for constructing non-trivial extensions of representations) and its arithmetical applications. I am on the job market.
+I am a fifth year Ph.D student in the [Department of Mathematics](https://www.math.temple.edu/) at Temple University, Philadelphia. I am advised by [Jaclyn Lang](https://math.temple.edu/~tuo02012/). My interests lie in Algebraic Number Theory. More specifically, I work with Galois representations, elliptic curves, and modular forms. Currently, I am thinking about Ribet's method (for constructing non-trivial extensions of representations) and its arithmetical applications. 
+
+I am on the job market.
 
