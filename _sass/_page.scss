@@ -1,6 +1,18 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
+.page,
+.page__content,
+.page__title,
+.page__lead,
+.page__meta,
+.page__share,
+.page__taxonomy,
+.page__comments,
+.page__related {
+  font-family: "Georgia", sans-serif;
+}
+
 
 #main {
   @include container;
