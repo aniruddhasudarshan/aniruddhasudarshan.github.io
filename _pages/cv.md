@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-Find the full CV [here](https://aniruddhasudarshan.github.io/files/Ani_CV_Aug2026.pdf)
+Find the full CV [here](https://aniruddhasudarshan.github.io/files/CV_Ani_Aug26.pdf)
 
 Education
 ======
@@ -15,28 +15,25 @@ Education
   * Master thesis: [Some applications of the Chebotarev density theorem](https://aniruddhasudarshan.github.io/files/Chebotarev_Density_Theorem.pdf). 
 * B.Sc. in Mathematics, Physics, and Computer Science, Jain University, Bengaluru, 2018
 
-Teaching experience
+Teaching Experience
 ======
-* Spring 2024: Introduction to Modern Algebra
-  * Temple University
-  * Supervisor: Prof. Martin Lorenz
+**At Temple University**
 
-* Fall 2023: Lab for Calculus
-  * Temple University
+* Fall 2026: Differential and Integral Calculus (Grader)
+* Summer 2026: Calculus I (Instructor)
+* Fall 2024, 2025: Mathematics for the Basic World (Instructor)
+* Spring 2024: Introduction to Modern Algebra (TA)
+* Fall 2023: Lab for Calculus (TA)
+* Summer 2023: Precalculus (Instructor)
+* Spring 2023: Modern Algebra II and Advanced Calculus II (TA)
+* Fall 2022: Differential Equations I (TA)
 
-* Summer 2023: Precalculus
-  * Temple University
-  * Duties included: Teaching, grading, making quizes.
+**At IISER Bhopal**
 
-* Spring 2023: Modern Algebra II and Advanced Calculus II
-  * Temple University
-  * Supervisor: Prof. Martin Lorenz and Prof. Gerardo Mendoza
- 
-* Fall 2022: Differential Equations I
-  * Temple University
-  * Supervisor: Prof. Je-Wie Chen
- 
-Service
+*Spring 2021, 2022: Probability and Statistics (TA)
+*Fall 2020, 2021: Introduction to Groups and Symmetries (TA)
+
+Academic Service
 ======
 * A student organizer of the Geometry, Topology, and Algebra ([GTA Philadelphia](https://math.temple.edu/events/conferences/gscagt/)) conference at Temple, 2023-present.
 * Co-organized the Algebra--Number Theory Seminars at IISER Bhopal, 2021-2022.
