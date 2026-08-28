@@ -7,6 +7,6 @@ author_profile: true
 
 **Preprints and Papers** 
 
-* _Symplectic extension graphs and Ribet's lemma_ (In preparation).
+* _Symplectic extension graphs and Ribet's lemma_ (in preparation).
 * [_On some local properties of sequences of big Galois representations_](https://aniruddhasudarshan.github.io/files/JNT_Art_1.pdf) (with [Jyoti Prakash Saha](https://sites.google.com/site/jyotiprakashsaha/)), Journal of Number Theory, 2024.  
 
