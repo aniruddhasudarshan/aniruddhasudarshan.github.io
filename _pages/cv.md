@@ -8,8 +8,7 @@ redirect_from:
 
 
 
-Education
-======
+
 * Ph.D in Mathematics, Temple University, Philadelphia, Currently
 * M.S. in Mathematics, Indian Institute of Science Education and Research (IISER), Bhopal, 2021
   * Master thesis: [Some applications of the Chebotarev density theorem](https://aniruddhasudarshan.github.io/files/Chebotarev_Density_Theorem.pdf). 
